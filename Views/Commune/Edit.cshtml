@@ -1,0 +1,21 @@
+@model Commune
+
+<h2>Edit commune</h2>
+<div></div>
+<div id="mapDiv" style="height: 500px; width: 100%;"></div>
+<form method="post">
+
+    <div class="mb-3 raw">
+    <label asp-for="commune_ar"></label>
+    <input asp-for="commune_ar" class="form-control" />
+    </div>
+
+    <div class="mb-3 raw">
+    </div>
+    <label asp-for="prefecture"></label>
+    <input asp-for="prefecture" class="form-control" />  
+    </div>
+
+    <button type="submit" class="btn btn-primary form-control">Edit commune</button>
+    <a asp-controller="Commune" asp-action="Index" class="bnt btn-secondary"></a>
+</form>
