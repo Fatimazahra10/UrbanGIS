@@ -11,8 +11,8 @@ require([
 ], function(Map, MapView, GeoJSONLayer) {
 
     const geojsonLayer = new GeoJSONLayer({
-        url: "http://127.0.0.1/qgisserver/cgi-bin/qgis_mapserv.fcgi?MAP=/home/barramou/dotNetProjects/labs/casablanca.qgs&SERVICE=WFS&VERSION=2.0.0&REQUEST=GetFeature&TYPENAME=Site&outputFormat=application/json"
-    });
+        url: "http://172.205.217.231/qgisserver?SERVICE=WFS&MAP=/home/gisadmin/Documents/projects/casavm.qgs&VERSION=2.0.0&REQUEST=GetFeature&TYPENAME=Site&outputFormat=application/json"
+            });
 
     const map = new Map({
         basemap: "streets-navigation-vector",
