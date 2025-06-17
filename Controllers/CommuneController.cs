@@ -19,7 +19,7 @@ namespace WebGIS.Controllers
         // GET: Commune
         public IActionResult Index()
         {
-            return View(_context.Communes.ToList());
+            return View();
         }
         public IActionResult Map()
         {

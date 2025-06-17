@@ -9,8 +9,8 @@ require (["esri/config", "esri/Map", "esri/views/MapView", "esri/layers/FeatureL
    const wmsLayer = new WMSLayer({
        url: wmsUrl,
         sublayers: [
-            { name: "communes" },
-            { name: "sites" }
+            { name: "Commune" },
+            { name: "Site" }
         ]
         });
         

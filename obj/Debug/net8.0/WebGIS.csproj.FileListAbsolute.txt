@@ -263,3 +263,4 @@
 /home/barramou/dotNetProjects/WebGIS/obj/Debug/net8.0/WebGIS.pdb
 /home/barramou/dotNetProjects/WebGIS/obj/Debug/net8.0/WebGIS.genruntimeconfig.cache
 /home/barramou/dotNetProjects/WebGIS/obj/Debug/net8.0/ref/WebGIS.dll
+/home/barramou/dotNetProjects/WebGIS/obj/Debug/net8.0/WebGIS.sourcelink.json

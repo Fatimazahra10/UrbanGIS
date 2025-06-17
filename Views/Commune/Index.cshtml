@@ -11,31 +11,5 @@
     <!-- Carte (au-dessus du tableau) -->
     <div id="mapDiv" style="height: 700px; width: 100%;"></div>
 
-    <!-- Tableau (en-dessous de la carte) -->
-@*
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Prefecture</th>
-                <th>Area</th>
-                <th></th>
-            </tr>
-        </thead>
-        <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@item.commune_ar</td>
-                <td>@item.prefecture</td>
-                <td>@item.shape_area</td>
-                <td>
-                    <a asp-action="Edit" asp-route-id="@item.id">Edit</a> |
-                    <a asp-action="Details" asp-route-id="@item.id">Details</a> |
-                    <a asp-action="Delete" asp-route-id="@item.id">Delete</a>
-                </td>
-            </tr>
-        }
-        </tbody>
-    </table>*@
+   
 </div>
