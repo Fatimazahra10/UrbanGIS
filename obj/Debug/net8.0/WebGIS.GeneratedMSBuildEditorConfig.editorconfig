@@ -26,16 +26,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/barramou/dotNetProjects/WebGIS
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/barramou/dotNetProjects/WebGIS/Views/Commune/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbXVuZS9FZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [/home/barramou/dotNetProjects/WebGIS/Views/Commune/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbXVuZS9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/barramou/dotNetProjects/WebGIS/Views/Commune/Map.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29tbXVuZS9NYXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/barramou/dotNetProjects/WebGIS/Views/Home/Index.cshtml]

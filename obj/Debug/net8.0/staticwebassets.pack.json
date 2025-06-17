@@ -17,14 +17,6 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
-      "Id": "/home/barramou/dotNetProjects/WebGIS/wwwroot/js/map.js",
-      "PackagePath": "staticwebassets/js/map.js"
-    },
-    {
-      "Id": "/home/barramou/dotNetProjects/WebGIS/wwwroot/js/site.js",
-      "PackagePath": "staticwebassets/js/site.js"
-    },
-    {
       "Id": "/home/barramou/dotNetProjects/WebGIS/wwwroot/lib/bootstrap/LICENSE",
       "PackagePath": "staticwebassets/lib/bootstrap"
     },
